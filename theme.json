@@ -1,0 +1,18 @@
+{
+  "global": {
+    "Brand": {
+      "primary": {
+        "main": {
+          "value": "#252759",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
