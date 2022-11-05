@@ -37,3 +37,5 @@ Figma is an amazing tool, without a doubt, but without the help of third-party s
 Figma tokens allows us to create the themes that will be used in the projects, as well as the tokens that will be used in each of them, and the plugin takes care of building a JSON object that can be consumed by the project developers.
 
 To use it just install it through the link (https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens)
+
+Today we also have all the documentation that is maintained by the Figma Tokens team, where we can be consulting the future updates of the plugin and how to use it (https://docs.figmatokens.com/)
