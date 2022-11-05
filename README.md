@@ -31,3 +31,9 @@ Fill Button: $buttom.color
 ColorText: $text.color
 
 The developer sees the colors as variables, and it is the design who establishes the values that this variable will receive, the design in this way has the autonomy to define changes to the colors, and the developer no longer needs to carry out a review of the project, because every it will get the changes defined by expecting the attribute with a variable value
+
+Figma is an amazing tool, without a doubt, but without the help of third-party software, it still doesn't have the ability to build all these tokens on its own. So, for that, we use a plugin, Figma tokens.
+
+Figma tokens allows us to create the themes that will be used in the projects, as well as the tokens that will be used in each of them, and the plugin takes care of building a JSON object that can be consumed by the project developers.
+
+To use it just install it through the link (https://www.figma.com/community/plugin/843461159747178978/Figma-Tokens)
