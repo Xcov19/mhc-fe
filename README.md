@@ -43,7 +43,7 @@ To use it just install it through the link (https://www.figma.com/community/plug
 
 Today we also have all the documentation that is maintained by the Figma Tokens team, where we can be consulting the future updates of the plugin and how to use it (https://docs.figmatokens.com/)
 
-<h1>How to integrate figma, figma token to this repository</h1>
+### How to integrate figma, figma token to this repository
 
 To use project tokens, you will first need to have your figma tokens plugin installed, and then have an account on your github so that you can later consume existing tokens in your commits with token updates.
 
