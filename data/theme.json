@@ -13,6 +13,24 @@
           "type": "color"
         }
       }
+    },
+    "BorderRadius": {
+      "Null": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "min": {
+        "value": "1",
+        "type": "borderRadius"
+      },
+      "xxxs": {
+        "value": "2",
+        "type": "borderRadius"
+      },
+      "max": {
+        "value": "999",
+        "type": "borderRadius"
+      }
     }
   },
   "$themes": [],
