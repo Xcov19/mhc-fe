@@ -31,6 +31,28 @@
         "value": "999",
         "type": "borderRadius"
       }
+    },
+    "Padding": {
+      "Null": {
+        "value": "0",
+        "type": "spacing"
+      },
+      "min": {
+        "value": "1",
+        "type": "spacing"
+      },
+      "xxxs": {
+        "value": "2",
+        "type": "spacing"
+      },
+      "xxs": {
+        "value": "4",
+        "type": "spacing"
+      },
+      "xs": {
+        "value": "6",
+        "type": "spacing"
+      }
     }
   },
   "$themes": [],
