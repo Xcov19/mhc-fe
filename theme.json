@@ -6,6 +6,12 @@
           "value": "#252759",
           "type": "color"
         }
+      },
+      "secondary": {
+        "main": {
+          "value": "#F25C05",
+          "type": "color"
+        }
       }
     }
   },
