@@ -1,6 +1,8 @@
 # mhc-fe
 ## My health connect frontend repository with design studio and frontend source code
 
+## How to integrate figma, figma token to this repository
+
 Design tokens are the visual design atoms of the design system — specifically, they are named entities that store visual design attributes, we can say they are variables that can be given a value.
 
 Design tokens can be attributes such as: color, font, font size, spacing, border thickness, opacity, radius, shadow.
