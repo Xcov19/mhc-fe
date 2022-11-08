@@ -52,6 +52,10 @@
       "xs": {
         "value": "6",
         "type": "spacing"
+      },
+"sm": {
+        "value": "8",
+        "type": "spacing"
       }
     }
   },
