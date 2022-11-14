@@ -88,6 +88,26 @@
       "md": {
         "value": "16",
         "type": "spacing"
+      },
+      "lg": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "xl": {
+        "value": "32",
+        "type": "spacing"
+      },
+      "xxl": {
+        "value": "48",
+        "type": "spacing"
+      },
+      "xxxl": {
+        "value": "64",
+        "type": "spacing"
+      },
+      "max": {
+        "value": "128",
+        "type": "spacing"
       }
     },
     "FontFamily": {
