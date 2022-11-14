@@ -139,12 +139,6 @@
         "type": "typography"
       }
     },
-    "text": {
-      "secondary": {
-        "value": "#638AA6",
-        "type": "color"
-      }
-    },
     "BoxShadow": {
       "Float": {
         "value": {
@@ -162,6 +156,40 @@
       "None": {
         "value": "0",
         "type": "borderWidth"
+      },
+      "min": {
+        "value": "0.5",
+        "type": "borderWidth"
+      },
+      "xxs": {
+        "value": "1",
+        "type": "borderWidth"
+      },
+      "xs": {
+        "value": "1.5",
+        "type": "borderWidth"
+      },
+      "sm": {
+        "value": "2",
+        "type": "borderWidth"
+      }
+    },
+    "Text": {
+      "princial_1": {
+        "value": "#1A4564",
+        "type": "color"
+      },
+      "princial_2": {
+        "value": "#F25C05",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#638AA6",
+        "type": "color"
+      },
+      "contrast": {
+        "value": "#ffffff",
+        "type": "color"
       }
     }
   },
