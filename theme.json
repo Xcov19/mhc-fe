@@ -5,7 +5,211 @@
         "main": {
           "value": "#252759",
           "type": "color"
+        },
+        "contrast": {
+          "value": "#ffffff",
+          "type": "color"
         }
+      },
+      "secondary": {
+        "main": {
+          "value": "#F25C05",
+          "type": "color"
+        },
+        "contrast": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      }
+    },
+    "BorderRadius": {
+      "None": {
+        "value": "0",
+        "type": "borderRadius"
+      },
+      "min": {
+        "value": "1",
+        "type": "borderRadius"
+      },
+      "xxs": {
+        "value": "2",
+        "type": "borderRadius"
+      },
+      "xs": {
+        "value": "4",
+        "type": "borderRadius"
+      },
+      "sm": {
+        "value": "6",
+        "type": "borderRadius"
+      },
+      "md": {
+        "value": "8",
+        "type": "borderRadius"
+      },
+      "lg": {
+        "value": "16",
+        "type": "borderRadius"
+      },
+      "xl": {
+        "value": "32",
+        "type": "borderRadius"
+      },
+      "max": {
+        "value": "999",
+        "type": "borderRadius"
+      }
+    },
+    "Padding": {
+      "None": {
+        "value": "0",
+        "type": "spacing"
+      },
+      "min": {
+        "value": "1",
+        "type": "spacing"
+      },
+      "xxxs": {
+        "value": "2",
+        "type": "spacing"
+      },
+      "xxs": {
+        "value": "4",
+        "type": "spacing"
+      },
+      "xs": {
+        "value": "6",
+        "type": "spacing"
+      },
+      "sm": {
+        "value": "8",
+        "type": "spacing"
+      },
+      "md": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "lg": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "xl": {
+        "value": "32",
+        "type": "spacing"
+      },
+      "xxl": {
+        "value": "48",
+        "type": "spacing"
+      },
+      "xxxl": {
+        "value": "64",
+        "type": "spacing"
+      },
+      "max": {
+        "value": "128",
+        "type": "spacing"
+      }
+    },
+    "FontFamily": {
+      "Lato": {
+        "value": "Lato",
+        "type": "fontFamilies"
+      }
+    },
+    "ButtomTypography": {
+      "label": {
+        "value": {
+          "fontFamily": "{FontFamily.Lato}",
+          "fontSize": "{fontSize.xs}",
+          "fontWeight": "{FontWeight.black}"
+        },
+        "type": "typography"
+      }
+    },
+    "fontSize": {
+      "min": {
+        "value": "11",
+        "type": "fontSizes"
+      },
+      "xxs": {
+        "value": "12",
+        "type": "fontSizes"
+      },
+      "xs": {
+        "value": "14",
+        "type": "fontSizes"
+      }
+    },
+    "FontWeight": {
+      "black": {
+        "value": "Black",
+        "type": "fontWeights"
+      },
+      "regular": {
+        "value": "Regular",
+        "type": "fontWeights"
+      }
+    },
+    "InputTypography": {
+      "placeholder": {
+        "value": {
+          "fontFamily": "{FontFamily.Lato}",
+          "fontSize": "{fontSize.xs}"
+        },
+        "type": "typography"
+      }
+    },
+    "BoxShadow": {
+      "Float": {
+        "value": {
+          "x": "0",
+          "y": "4",
+          "blur": "16",
+          "spread": "0",
+          "color": "#06182519",
+          "type": "dropShadow"
+        },
+        "type": "boxShadow"
+      }
+    },
+    "BorderWidth": {
+      "None": {
+        "value": "0",
+        "type": "borderWidth"
+      },
+      "min": {
+        "value": "0.5",
+        "type": "borderWidth"
+      },
+      "xxs": {
+        "value": "1",
+        "type": "borderWidth"
+      },
+      "xs": {
+        "value": "1.5",
+        "type": "borderWidth"
+      },
+      "sm": {
+        "value": "2",
+        "type": "borderWidth"
+      }
+    },
+    "Text": {
+      "princial_1": {
+        "value": "#1A4564",
+        "type": "color"
+      },
+      "princial_2": {
+        "value": "#F25C05",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#638AA6",
+        "type": "color"
+      },
+      "contrast": {
+        "value": "#ffffff",
+        "type": "color"
       }
     }
   },
